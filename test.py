@@ -1,0 +1,2 @@
+# author : aldfo
+print("algorithm")
